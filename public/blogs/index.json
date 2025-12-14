@@ -1,5 +1,16 @@
 [
   {
+    "slug": "link",
+    "title": "神岛代码·跳转链接",
+    "tags": [
+      "神岛代码"
+    ],
+    "date": "2025-12-14T20:52",
+    "summary": "神岛代码·跳转链接",
+    "hidden": false,
+    "category": "神岛api链接&实用代码开源"
+  },
+  {
     "slug": "dao3api",
     "title": "神岛API链接",
     "tags": [
