@@ -73,6 +73,13 @@
 			"value": "https://dao3.fun",
 			"label": "神奇代码岛",
 			"order": 2
+		},
+		{
+			"id": "button-1765697779447",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/520498065446954",
+			"label": "稀土掘金",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
