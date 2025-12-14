@@ -37,9 +37,13 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "url-1765691747111",
+			"url": "https://public.ysjf.com/content/title-image/5J889Fli4Z0.jpg?x-oss-process=image/resize,w_500"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "url-1765691747111",
 	"socialButtons": [
 		{
 			"id": "github",
