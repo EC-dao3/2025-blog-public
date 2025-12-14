@@ -41,9 +41,13 @@
 		{
 			"id": "url-1765691747111",
 			"url": "https://public.ysjf.com/content/title-image/5J889Fli4Z0.jpg?x-oss-process=image/resize,w_500"
+		},
+		{
+			"id": "url-1765693224219",
+			"url": "https://p9-flow-imagex-sign.byteimg.com/tos-cn-i-a9rns2rl98/rc_gen_image/d0d0d31294ec446b891abfa51f038577preview.jpeg~tplv-a9rns2rl98-downsize_watermark_1_6_b.png?rcl=20251214141913FF78E67587150C23B4AE&rk3s=8e244e95&rrcfp=827586d3&x-expires=2081053174&x-signature=aTaDyUOB%2BdyeezWECU%2BNqXeMWxE%3D"
 		}
 	],
-	"currentBackgroundImageId": "url-1765691747111",
+	"currentBackgroundImageId": "url-1765693224219",
 	"socialButtons": [
 		{
 			"id": "github",
